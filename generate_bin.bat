@@ -1,0 +1,1 @@
+C:\Keil_v5\ARM\ARMCC\bin\fromelf.exe --bin --output C:\ibss-11_12.13\OBJ\Template.bin C:\ibss-11_12.13\OBJ\Template.axf
